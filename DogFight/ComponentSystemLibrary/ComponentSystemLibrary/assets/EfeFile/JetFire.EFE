@@ -1,0 +1,16 @@
+name:sample_1_1
+spawnNum:5
+life:0.5
+liveTimeSrt:0
+vel:0,0,0,
+scaleAnim_initScale:0.05,0.05,0.02,
+scaleAnim_finishScale:0.01,0.01,0.05,
+spawnPos:-18.9955,518.841,-1245.19
+spawnPosRange:0.5,0.5,0
+velRange:20,1,1
+speed:0
+rot:-4.88675e-09,1,-6.85134e-06
+gravity:0
+velFlgType:0
+InitColor:1,0,0,1
+EndColor:1,0,0,1
